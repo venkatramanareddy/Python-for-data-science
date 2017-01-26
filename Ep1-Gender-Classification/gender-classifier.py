@@ -17,9 +17,9 @@ Output = ['male','male','female', 'female', 'male', 'male', 'female', 'female',
 #input_weight = input("Enter weight : ")
 #input_shoe_size = input("Enter shoe-size : ")
 
-input_height = 190
-input_weight = 70
-input_shoe_size = 43
+input_height = 175
+input_weight = 64
+input_shoe_size = 39
 
 #Using decision tree classifier
 classifier = tree.DecisionTreeClassifier()
