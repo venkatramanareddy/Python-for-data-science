@@ -12,12 +12,20 @@ You can play around the code to check for other classifier by taking examples fr
 
 video : https://www.youtube.com/watch?v=T5pRlIbr6gg(https://www.youtube.com/watch?v=T5pRlIbr6gg)
 
+## Install
 You may need to install scikit learn using 
 
 ```
 pip install -U scikit-learn
 ```
 
+You can also do this by simply executing the script
+
+```
+./setup.sh
+```
+
+## Run
 Run the code using
 
 ```
